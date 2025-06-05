@@ -1,0 +1,2 @@
+# cfg-hosts
+config hosts
